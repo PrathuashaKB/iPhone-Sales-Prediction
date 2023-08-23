@@ -6,6 +6,8 @@ iPhone sales prediction refers to the process of estimating or forecasting the f
 
 Here is an attempt of iPhone sales prediction using the K-NN algorithm, which classifies or predicts based on the similarity to neighboring data points. It can be applied to sales prediction by finding the most similar historical instances to make forecasts based on their sales outcomes.
 
+[DATASET](https://drive.google.com/file/d/1WKa_yL_C_vDCZEi_Ai_UHRarXgsb-ILK/view)
+
 ### Technologies used :
  1. Machine-Learning algorithm - K-NN(K Nearest Neighbors) algorithm
 

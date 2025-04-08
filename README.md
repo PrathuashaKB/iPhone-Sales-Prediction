@@ -7,6 +7,7 @@
 </div>
 
 📱*A Smart Forecasting Model Using K-Nearest Neighbors (K-NN)*
+
 This project is a machine learning-based approach to predict iPhone sales using the K-Nearest Neighbors (K-NN) algorithm. Sales prediction helps businesses align production, marketing, and distribution with real-time demands. As part of my Machine Learning lab practicals, this project demonstrates the ability to analyze and model sales trends using historical data. K-NN, a supervised ML algorithm, works by classifying or predicting data based on the similarity to neighboring data points. It offers a simple yet powerful technique to forecast sales outcomes based on historical patterns.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
